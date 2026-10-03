@@ -23,7 +23,7 @@ Official native Linux ARM64 build for **Friday Night Funkin' V-Slice**, optimize
 
 1. Download the `.deb` file from the assets below or directly via terminal:
    ```bash
-   wget [https://github.com/Miiyamoto255/FunkinARM64/releases/download/v<version-name>/fnf-vslice_<version-name>_arm64.deb](https://github.com/Miiyamoto255/FunkinARM64/releases/download/v<version-name>/fnf-vslice_<version-name>_arm64.deb)
+   wget https://github.com/Miiyamoto255/FunkinARM64/releases/download/v<version-name>/fnf-vslice_<version-name>_arm64.deb
 
  * Install the package using dpkg:
    sudo dpkg -i fnf-vslice_<version-name>_arm64.deb
